@@ -1,0 +1,5 @@
+.DS_Store
+/env/
+scrapy.cfg
+*/__pycache__/
+/__pycache__/*
